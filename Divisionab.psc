@@ -1,10 +1,10 @@
 Algoritmo Division
-	Definir a,b,divid Como Real
+	Definir c,d,divid Como Real
 	Escribir "Ingresa el primer termino"
-	Leer a
+	Leer c
 	Escribir "Ingresa un segundo termino"
-	Leer b
-	divid=a/b
-	Escribir "El resultado de la division es de: ", divid
+	Leer d
+	divid=c/d
+	Escribir "La división de dos números es de: ", divid
 	
 FinAlgoritmo
