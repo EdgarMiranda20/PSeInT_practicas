@@ -7,7 +7,7 @@ Algoritmo Multiplicacion
 	
 
 	multi=a*b
-	Escribir "La multiplicacion es: ", multi
+	Escribir "La multiplicacion de dos números es: ", multi
 	
 
 	
