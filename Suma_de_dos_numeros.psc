@@ -1,9 +1,9 @@
 Algoritmo Suma_de_dos_numeros
-	Definir a, b, suma Como Entero
+	Definir a, c, suma Como Entero
 	Escribir "Ingresa un termino"
 	leer a
 	escribir "Ingresa un segundo termino"
-	leer b
-	suma=a+b
-	Escribir "La suma de dos numeros es: ", suma 
+	leer c
+	suma=a+c
+	Escribir "El resultado de la suma de dos numeros es: ", suma 
 FinAlgoritmo
