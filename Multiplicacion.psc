@@ -1,12 +1,12 @@
 Algoritmo Multiplicacion
-	Definir a,c, multi Como Entero
-	Escribir "Ingresa un termino"
+	Definir a,b, multi Como Entero
+	Escribir "Ingresa un termino "
 	leer a
-	Escribir "Ingresa un segundo termino"
-	leer c
+	Escribir " Ingresa un segundo termino "
+	leer b
 	
 
-	multi=a*c
+	multi=a*b
 	Escribir "La multiplicacion de dos números es: ", multi
 	
 
