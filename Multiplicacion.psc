@@ -5,9 +5,8 @@ Algoritmo Multiplicacion
 	Escribir " Ingresa un segundo termino "
 	leer b
 	
-
 	multi=a*b
-	Escribir "La multiplicacion de dos números es: ", multi
+	Escribir "La multiplicacion de dos daria como resultado: ", multi
 	
 
 	
