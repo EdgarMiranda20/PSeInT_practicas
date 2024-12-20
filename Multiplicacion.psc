@@ -1,11 +1,11 @@
 Algoritmo Multiplicacion
-	Definir a,b, multi Como Entero
+	Definir a,b, multipli Como Entero
 	Escribir "Ingresa un termino "
 	leer a
 	Escribir " Ingresa el segundo termino "
 	leer b
 	
-	multi=a*b
+	multipli=a*b
 	Escribir "La multiplicacion de dos da como resultado: ", multi
 	
 
