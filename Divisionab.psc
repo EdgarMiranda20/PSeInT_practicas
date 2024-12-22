@@ -1,10 +1,10 @@
 Algoritmo Division
-	Definir c,d,divid Como Real
+	Definir c,d,divi Como Real
 	Escribir "Ingresa el primer termino"
 	Leer c
 	Escribir "Ingresa un segundo termino"
 	Leer d
-	divid=c/d
-	Escribir "La división de los dos números seria de: ", divid
+	divi=c/d
+	Escribir "La división de los dos números seria de: ", divi
 	
 FinAlgoritmo
