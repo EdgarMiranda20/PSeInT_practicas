@@ -5,6 +5,6 @@ Algoritmo Division
 	Escribir "Ingresa un segundo termino"
 	Leer d
 	divi=c/d
-	Escribir "La división de los dos números seria de: ", divi
+	Escribir "El resultado es: ", divi
 	
 FinAlgoritmo
