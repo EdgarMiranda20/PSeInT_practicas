@@ -11,7 +11,7 @@ Algoritmo Promediode4cals
 	
 	prome=(cal1+cal2+cal3+cal4)/4
 	
-	Escribir "El promedio general es de: ", prome
+	Escribir "El promedio general obtenido es: ", prome
 	
 	
 FinAlgoritmo
