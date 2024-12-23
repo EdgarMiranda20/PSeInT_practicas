@@ -6,7 +6,7 @@ Algoritmo Multiplicacion
 	leer b
 	
 	multipli=a*b
-	Escribir "La multiplicacion de dos da como resultado: ", multi
+	Escribir "La multiplicacion da como resultado: ", multi
 	
 
 	
