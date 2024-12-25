@@ -1,13 +1,13 @@
 Algoritmo Numeroparoimpar
-	Definir num Como Entero
+	Definir nume Como Entero
 	Escribir "Ingresa un numero"
-	Leer num
+	Leer nume
 	
-	si num MOD 2=0 Entonces
-		Escribir num, " Es un numero par"
+	si nume MOD 2=0 Entonces
+		Escribir nume, " Es un numero par"
 		
 	SiNo
-		Escribir num, " Es un numero impar"
+		Escribir nume, " Es un numero impar"
 	FinSi
 	
 
