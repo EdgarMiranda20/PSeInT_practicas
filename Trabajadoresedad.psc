@@ -11,7 +11,7 @@ Algoritmo vec_trabajadoresedad
 		d=d+1
 	FinMientras
 	
-	imprimir "La edad en la que se podran jubilar es: "
+	imprimir "Las personas que se jubilaran son: "
 	r=1
 	
 	Mientras r<=x Hacer
