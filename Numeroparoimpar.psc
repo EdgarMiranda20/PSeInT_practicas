@@ -4,14 +4,10 @@ Algoritmo Numeroparoimpar
 	Leer nume
 	
 	si nume MOD 2=0 Entonces
-		Escribir nume, " Es un numero par"
+		Escribir nume, " Es un numero par "
 		
 	SiNo
-		Escribir nume, " Es un numero impar"
+		Escribir nume, " Es un numero impar "
 	FinSi
-	
-
-	
-	
-	
+		
 FinAlgoritmo
