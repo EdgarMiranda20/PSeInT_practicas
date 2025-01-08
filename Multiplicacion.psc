@@ -6,7 +6,7 @@ Algoritmo Multiplicacion
 	leer b
 	
 	multipli=a*b
-	Escribir "La multiplicacion es: ", multi
+	Escribir "La multiplicacion es de: ", multi
 	
 
 	
