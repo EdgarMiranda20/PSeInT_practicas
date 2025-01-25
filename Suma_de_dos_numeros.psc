@@ -5,5 +5,5 @@ Algoritmo Suma_de_dos_numeros
 	escribir "Ingresa un segundo termino"
 	leer b
 	suma=a+b
-	Escribir "Resultado: ", suma 
+	Escribir "Resultado es: ", suma 
 FinAlgoritmo
