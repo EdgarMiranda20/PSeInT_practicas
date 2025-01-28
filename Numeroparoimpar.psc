@@ -7,7 +7,7 @@ Algoritmo Numeroparoimpar
 		Escribir nume, " Es un numero par "
 		
 	SiNo
-		Escribir nume, " Es un numero impar "
+		Escribir nume, " Es impar "
 	FinSi
 		
 FinAlgoritmo
